@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/tedu/cloudnote/controller/user/UserLoginController.java=UTF-8
+encoding//src/main/java/com/tedu/cloudnote/service/BookServiceImpl.java=UTF-8
+encoding//src/main/java/com/tedu/cloudnote/service/NoteServiceImpl.java=UTF-8
+encoding//src/main/java/com/tedu/cloudnote/service/UserService.java=UTF-8
+encoding//src/main/java/com/tedu/cloudnote/service/UserServiceImpl.java=UTF-8
+encoding//src/main/java/com/tedu/cloudnote/util=UTF-8
+encoding//src/main/resources/conf/spring-mybatis.xml=UTF-8
+encoding//src/main/webapp/alert/alert_delete_note.html=UTF-8
+encoding//src/main/webapp/alert/alert_delete_rollback.html=UTF-8
+encoding//src/main/webapp/alert/alert_error.html=UTF-8
+encoding//src/main/webapp/alert/alert_move.html=UTF-8
+encoding//src/main/webapp/alert/alert_note.html=UTF-8
+encoding//src/main/webapp/alert/alert_notebook.html=UTF-8
+encoding//src/main/webapp/alert/alert_replay.html=UTF-8

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//ibatis.apache.org//DTD Mapper 3.0//EN"      
+ "http://ibatis.apache.org/dtd/ibatis-3-mapper.dtd">
+ <mapper namespace="com.tedu.cloudnote.dao.EmpDao">
+ <!-- 自动生成的主键获取后放入到参数Emp对象的id属性中 -->
+ <insert id="save" parameterType="com.tedu.cloudnote.entity.Emp" 
+ 		useGeneratedKeys="true" keyProperty="id">
+ 	insert into t_emp(name,age) values(#{name},#{age})
+ </insert>
+ </mapper>

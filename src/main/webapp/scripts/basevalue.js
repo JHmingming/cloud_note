@@ -1,0 +1,1 @@
+var path="http://localhost:8090/cloud_note";
